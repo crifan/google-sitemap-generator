@@ -1,6 +1,6 @@
 # google-sitemap-generator
 
-Crifan customized google-sitemap-generator to support add customized link
+Crifan customized google-sitemap-generator (a WordPress plugin to generate sitemap) to support add customized link
 
 * core update part
   * `sitemap-ui.php`
