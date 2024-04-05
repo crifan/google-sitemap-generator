@@ -20,3 +20,6 @@ Crifan customized google-sitemap-generator to support add customized link
     msgid "Here you can specify folder/path/directory which should be included in the sitemap, but do not belong to your Blog/WordPress database.<br />such as http://www.crifan.com/files/doc/docbook/ which not belong to the site's wordpress database.<br />"
     msgstr "你可以在此处添加一些特殊的但并不存在于你 Blog/WordPress 的地址。<br />比如，http://www.crifan.com/files/doc/docbook/，其并不属于该wordpress网站的数据库。"
     ```
+
+* Note
+  * original (latest) Code: [XML Sitemap Generator for Google – WordPress plugin | WordPress.org](https://wordpress.org/plugins/google-sitemap-generator/)
